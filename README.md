@@ -1,4 +1,37 @@
-### 🧠 Explicação do Algoritmo A*
+# ✈️ Algoritmo A* - Roteamento entre Aeroportos
+
+Este projeto utiliza o **Algoritmo A\*** para encontrar o menor caminho entre aeroportos de cidades do sul e sudeste do Brasil, com interface desenvolvida em **Streamlit**.
+
+---
+
+## 🚀 Como executar o projeto
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
+cd nome-do-repo
+```
+
+2. **Instale as dependências**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Instale as dependências**
+```bash
+streamlit run app.py
+```
+
+4. **Acesse no navegador**
+```
+O Streamlit abrirá automaticamente em http://localhost:8501
+```
+
+## 📸 Exemplo
+![Exemplo](exemple.png)
+
+
+## 🧠 Explicação do Algoritmo A*
 
 O algoritmo **A\\*** é um dos algoritmos mais eficientes e populares para encontrar o **caminho mais curto** entre dois pontos em um grafo, como no caso de rotas entre cidades ou aeroportos.
 
